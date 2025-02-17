@@ -1,0 +1,23 @@
+.add{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  background-color: antiquewhite;
+  gap: 20px;
+  padding: 20px;
+  align-items: center;
+  justify-content: center;
+}
+.add form{
+  background-color: white;
+  padding: 20px;
+  border-radius:10px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.244);
+  display: flex;
+  gap: 15px;
+}
+.add input{
+  width: 250px;
+  height: 40px;
+  border-radius: 5px;
+}

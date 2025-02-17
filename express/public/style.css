@@ -1,0 +1,12 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 70px;
+    background-color: antiquewhite;
+}
+
+nav div{
+    display: flex;
+    gap: 20px;
+}
